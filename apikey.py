@@ -1,0 +1,2 @@
+openai_api_key="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"
+google_gemini_api_key="AIzaSyBckGoVFTUhwbPk2kisV85t2dmvjsW2I9I"
